@@ -1,3 +1,4 @@
 Git is a version control system.
-Git is free software.
-I am learning Git.
+Git is a free software.
+I am learning Git now.
+
