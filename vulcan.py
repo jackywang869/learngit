@@ -1,0 +1,4 @@
+'''
+import vulcan
+'''
+print('vulcan')
